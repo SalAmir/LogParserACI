@@ -16,7 +16,7 @@ public class Message implements Comparable<Message>{
 	public Date getDatetime() {
 		return datetime;
 	}
-
+	// msaster change
 	public String getMessage() {
 		return message;
 	}
